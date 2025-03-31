@@ -1,2 +1,2 @@
-# Quantum-Brainathon
-Submission for the annual QML hackathon organised by Center for Development of Advanced Computing(CDAC), Government of India. Won the first prize among 1500+ participants
+# Quantum-Brainathon-CDAC-2025
+Final submission for the annual QML hackathon organised by the Center for Development of Advanced Computing(CDAC), Government of India.
